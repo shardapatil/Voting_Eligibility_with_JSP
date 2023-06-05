@@ -16,7 +16,6 @@
 </head>
 </head>
 <body>
-
 	<%
 		String name = request.getParameter("name");
 		int age = Integer.parseInt(request.getParameter("age"));
